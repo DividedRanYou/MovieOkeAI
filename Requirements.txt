@@ -1,0 +1,12 @@
+imageio
+numpy
+pythreejs
+pywavefront
+openai
+requests
+uti
+openai
+opencv-python
+opencv-contrib-python
+tkinterweb
+webview
