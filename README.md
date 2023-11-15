@@ -34,15 +34,15 @@ Through this request it generates the story and then makes this following reques
 Then it makes a request to a custom made API URL created by MovieBot through there own website which now no longer exists or works: https://static.movieoke.app/app/features.json
 
 The code creates a log of user specified settings for the animation and OpenAI generated content and then sends it all over to here: https://static.movieoke.app/app/features.json
-And generates the animation then sends it over to the user where they can preview it, save it, and edit it!
+and generates the animation then sends it over to the user where they can preview it, save it, and edit it!
 
-We've assumed the MovieBot API is where is randomised model movement and may use some sort of AI to determine where to move them.
+We've assumed the MovieBot API is where it randomises model movement and may use some sort of AI to determine where to move them.
 
 Also note that it would only allow you to use 2 models but it was possible to add your own models in the editor.
 
 For voices it used ElevenLabsAI which was either randomised by the code or selected by the user.
 
-From all this i built a basic Python library for interacting with MovieBot very near to the shutdown and it worked for a few days after the shutdown as they disconnected the MovieBot API a few days after making the library de-functional, but some aspects of it still work as for the revivial project it contains functions/classes to help build it, and i plan for to make it request to the re-created backend.
+From all this i built a basic Python library for interacting with MovieBot very near to the shutdown and it worked for a few days after the shutdown as they disconnected the MovieBot API a few days after making the library de-functional, but some aspects of it still work as for the revivial project it contains functions/classes to help build it, and i plan to make it request to the re-created backend.
 
 ![Screenshot 2023-11-15 at 6 46 11 pm](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/e91b6f16-49dc-4132-8e50-a66a947de981)
 
