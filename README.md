@@ -10,7 +10,7 @@ MovieOkeAI is a revivial project for MovieBot, which allowed you to transform te
 
 The project was shutdown due to lack of developers and profit, it was very un-sustainable as it was free at first and tried implemting a paid plan but it was already to late.
 
-Some of the owners of the project tried there best to find investors and worked hard to keep the app working and going, MovieBot had a very engaged community but just couldn't keep up, and i remember discoverying MovieBot once and it was just the month before shutdown sadly, so i thought... "could i save it....?" so then i tried reverse engineering the APK file for it, and took a look at the code, and of course some files were corrupted but most wasn't so i got to take a good look at it which gave me and understanding of how it worked, i then used MitMProxy to sniff network logs with my phone to MovieBot, which is where is discovered even more on how it worked!
+Some of the owners of the project tried there best to find investors and worked hard to keep the app working and going, MovieBot had a very engaged community but just couldn't keep up, and i remember discoverying MovieBot once and it was just the month before shutdown sadly, so i thought... "could i save it....?" so then i tried reverse engineering the APK file for it, and took a look at the code, and of course some files were corrupted but most wasn't so i got to take a good look at it which gave me a good understanding of how it worked, i then used MitMProxy to sniff network logs with my phone to MovieBot, which is where is discovered even more on how it worked!
 
 # How MovieBot Works
 
