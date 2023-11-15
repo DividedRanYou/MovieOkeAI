@@ -4,7 +4,7 @@
 
 MovieOkeAI is a revival project for MovieBot, which allowed you to transform text to a full on 3D animation, and contained other features as well and was extremely easy to use. 
 
-# MovieBot • What happend to it?
+# What happend to it?
 
 ![image](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/8d7144b5-1d14-44c4-a2d9-ad99fb0b4638)
 
