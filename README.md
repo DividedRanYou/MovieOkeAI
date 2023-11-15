@@ -92,6 +92,8 @@ https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/0e9b35ee-f520-4117-
 
 # Info
 
+If you choose to modify and mess with what has been uploaded to this repo, then you will not have access to alot of the MovieBot stuff, but you should still be able to make a decent mod for it if you feel like, but we suggest joining the dev team for more control and more oppurtunities.
+
 If you are interested in joining us, our dev team and dev chat currently operates on Discord, if you would like to help us out then please do: https://discord.gg/xgmR67M7P2
 
 ![wiicode](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/ca7b046f-bc46-44ef-8c7e-3bf4b9d3fe4b)
