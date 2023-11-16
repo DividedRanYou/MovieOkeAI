@@ -103,6 +103,5 @@ If you are interested in joining us, our dev team and dev chat currently operate
 Take a look at my Archive account, where i have been uploading and archiving MovieBot media: https://archive.org/details/@alex_deven542
 
 Here is an archive of download links to MovieBot: https://apkpure.com/moviebot-ai/app.teleportal.movieoke/versions
-Credits to the amazing chad owners of APKPure for this!
 
 -Divided
