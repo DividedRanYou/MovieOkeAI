@@ -82,6 +82,12 @@ https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/0e9b35ee-f520-4117-
 
 ![Screenshot 2023-11-15 at 6 49 44 pm](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/d638ad79-288e-4af5-b0de-3627100e7c89)
 
+![Screenshot 2023-11-16 at 10 33 31 pm](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/76b20929-6258-456e-80d4-edb394825660)
+
+![Screenshot 2023-11-16 at 10 34 08 pm](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/32180a91-ceca-42c3-8d28-d8de2b381cec)
+
+![Screenshot 2023-11-16 at 10 34 51 pm](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/4bc89963-8ff5-444a-95de-a5cb7e8f9775)
+
 # This is what i want each tab to look like for, 'Generate' 'Studio'
 
 ![GenUI](https://github.com/DividedRanYou/MovieOkeAI/assets/147950850/68830e03-0bfc-40a7-86a3-34408529eaaf)
