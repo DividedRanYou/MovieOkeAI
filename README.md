@@ -106,7 +106,7 @@ If you are interested in joining us, our dev team and dev chat currently operate
 
 # External
 
-Take a look at my Archive account, where i have been uploading and archiving MovieBot media: https://archive.org/details/@alex_deven542
+Take a look at my Archive account, where i have been uploading and archiving MovieBot media: https://tinyurl.com/IRanMyself
 
 Here is an archive of download links to MovieBot: https://apkpure.com/moviebot-ai/app.teleportal.movieoke/versions
 
